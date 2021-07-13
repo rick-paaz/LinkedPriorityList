@@ -15,6 +15,6 @@ public class LinkedPriorityList<T> implements PriorityList<T>, Iterable<T> {
   // Copy and Paste the method headings from PriorityList.java.
   // Change the method headings ending with ; into method stubs.
   // This way you get to keep the Javadoc comments in interface PriorityList.
-  // You also get rid of the error on line 6.
+  // You also get rid of the error on the line above.
 
 }
